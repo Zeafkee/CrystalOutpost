@@ -6,7 +6,7 @@ spend them by standing on build pads: turrets, crystal cannons, walls and upgrad
 
 ![screenshots](Docs/screenshots.png)
 
-**Android:** APK in [Releases](../../releases) — _coming soon_ · **Play in the browser:** itch.io — _coming soon_
+**Play in the browser:** [zeafkee.github.io/play/crystaloutpost](https://zeafkee.github.io/play/crystaloutpost/) · **Android:** APK in [Releases](../../releases/latest)
 
 ## Features
 
