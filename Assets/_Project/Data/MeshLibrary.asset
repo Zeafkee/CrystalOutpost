@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 332294363ebae4947a8ac8b89d68819e, type: 3}
+  m_Name: MeshLibrary
+  m_EditorClassIdentifier: CrystalOutpost.Runtime::CrystalOutpost.Data.MeshLibrary
+  meshes:
+  - {fileID: -8670151273213183110, guid: 0bf6b01530f451c4ba3f24b4e35ac7db, type: 3}
+  - {fileID: -8670151273213183110, guid: db91831c2e1bd464f802860299cab372, type: 3}
+  - {fileID: -8670151273213183110, guid: 8c707739e7d2faa4390478d6d0dbc926, type: 3}
+  - {fileID: -8670151273213183110, guid: 069787425f7a6fe448e5330e2801a480, type: 3}
+  - {fileID: -8670151273213183110, guid: 5a2c79a78181e5d4396f2cce2aa3a562, type: 3}
+  - {fileID: -8670151273213183110, guid: 979854e2b553018479db30add801aee7, type: 3}
+  - {fileID: -8670151273213183110, guid: d483011dce9e3524abe9bd752c9ddb37, type: 3}
+  - {fileID: 4300000, guid: 219ffaa5c67b0034c8e21e24d8bf05be, type: 2}
+  toon: {fileID: 2100000, guid: 959b0a94d807fb34d8c80626ab390f3c, type: 2}
+  shadow: {fileID: 2100000, guid: adeb0c551344fb7478a35a85c551dffc, type: 2}
+  glow: {fileID: 2100000, guid: 2bd81faddc7451c4792af658496d3829, type: 2}
